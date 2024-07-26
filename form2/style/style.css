@@ -1,0 +1,28 @@
+main{
+    font-family: 'Open Sans',sans-serif;
+    font-size: 18px;
+    color: #666666;
+}
+h1{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49.03px;
+    color: #333333;
+}
+input{
+    background-color:   #F5F5F5;
+    font-weight: bold;
+}
+::placeholder {
+    color: #999999;
+}
+button{
+    background-color: #089FE0;
+    color: #FFFFFF;
+}
+a{
+    color: #089FE0;
+}
+#check{
+    font-size: 16px;
+}
