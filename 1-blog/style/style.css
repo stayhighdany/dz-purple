@@ -1,0 +1,35 @@
+*{
+    background-color: #374151;
+    font-family: 'Roboto';
+    font-weight: 400;
+    color: #FFFFFF;
+}
+a {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.75px;
+}
+.findAll {
+    background-color: rgba(31, 41, 55, 0.6);
+}
+.allDescription {
+    font-size: 14px;
+    opacity: 60%;
+}
+#theme {
+    font-size: 24px;
+}
+#nameTeach  {
+font-size: 16px;
+}
+#twiceInformteach {
+    font-size: 14px;
+    opacity: 60%;
+}
+.mainInform {
+    font-size: 20px;
+}
+.footWeb {
+    font-size: 16px;
+    opacity: 60%    ;
+}
